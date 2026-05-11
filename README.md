@@ -48,7 +48,7 @@ Este projeto foi além do CRUD básico, focando em boas práticas de engenharia 
 
 1. *Back-end*:
 #### Clone o repositório e entre na pasta do servidor
-`./mvnw spring-boot:run`
+`mvnw spring-boot:run`
 A API estará disponível em `http://localhost:8080`. 
 
 2. *Front-end*:
